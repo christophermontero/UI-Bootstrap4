@@ -36,3 +36,14 @@ body {
 	margin: 0px;
 	color: #0f0f0f;
 }
+
+button a {
+	color: #0f0f0f;
+	text-decoration: none;
+}
+
+button a:hover {
+	color: #0f0f0f;
+	text-decoration:none; 
+	cursor:pointer;
+}

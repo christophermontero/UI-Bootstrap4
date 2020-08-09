@@ -37,17 +37,6 @@ body {
 	color: #0f0f0f;
 }
 
-button a {
-	color: #0f0f0f;
-	text-decoration: none;
-}
-
-button a:hover {
-	color: #0f0f0f;
-	text-decoration:none; 
-	cursor:pointer;
-}
-
 .tab-content{
 	border-left: 1px solid #ddd;
 	border-right: 1px solid #ddd;
